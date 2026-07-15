@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "kind": "genshin-combo-catalog",
-  "generatedAt": "2026-07-15T06:30:08.345Z",
+  "generatedAt": "2026-07-15T07:30:35.835Z",
   "releases": [
     {
       "id": "draft.new-mrlnm7t5",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "name": "githubPublishTest1",
-      "summary": "第二次github仓库发布测试",
-      "url": "releases/draft.new-mrlnm7t5/0.1.1.json",
-      "sha256": "eda1ea7180d58893fe716e3ee93f3d63e13a27e635f2e3df80d5d5466101d24b",
-      "publishedAt": "2026-07-15T06:30:08.345Z"
+      "summary": "更新手法与动作媒体",
+      "url": "releases/draft.new-mrlnm7t5/0.1.2.json",
+      "sha256": "f8367f424a1b5a8c35589ab6e8c523b6e144a97279e3e5b6d8ee136515886087",
+      "publishedAt": "2026-07-15T07:30:35.835Z"
     }
   ]
 }
