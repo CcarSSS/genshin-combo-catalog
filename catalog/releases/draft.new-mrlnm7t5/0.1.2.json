@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "kind": "genshin-combo-release",
+  "id": "draft.new-mrlnm7t5",
+  "version": "0.1.2",
+  "name": "githubPublishTest1",
+  "summary": "更新手法与动作媒体",
+  "publishedAt": "2026-07-15T07:30:35.835Z",
+  "drill": {
+    "schemaVersion": 1,
+    "id": "draft.new-mrlnm7t5",
+    "name": "githubPublishTest1",
+    "description": "用于github提交测试",
+    "status": "draft",
+    "characterIds": [
+      "character-id"
+    ],
+    "durationMs": 7120,
+    "countInMs": 1500,
+    "tracks": [
+      {
+        "id": "input-mouse-0",
+        "label": "鼠标左键",
+        "color": "#ecb85c"
+      },
+      {
+        "id": "input-mouse-2",
+        "label": "鼠标右键",
+        "color": "#6fc9ce"
+      },
+      {
+        "id": "input-keyboard-digit1",
+        "label": "1",
+        "color": "#cf8da8"
+      },
+      {
+        "id": "input-keyboard-keye",
+        "label": "E",
+        "color": "#79c98b"
+      }
+    ],
+    "spans": [
+      {
+        "id": "recorded-1",
+        "trackId": "input-mouse-0",
+        "action": "attack",
+        "startMs": 534.07,
+        "durationMs": 1244.949,
+        "label": "普通攻击",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-2",
+        "trackId": "input-mouse-2",
+        "action": "sprint",
+        "startMs": 1283.9,
+        "durationMs": 478.3409999999999,
+        "label": "冲刺 / 闪避",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-3",
+        "trackId": "input-mouse-0",
+        "action": "attack",
+        "startMs": 2019.049,
+        "durationMs": 1072.4610000000002,
+        "label": "普通攻击",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-4",
+        "trackId": "input-mouse-2",
+        "action": "sprint",
+        "startMs": 2596.598,
+        "durationMs": 329.2629999999999,
+        "label": "冲刺 / 闪避",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-5",
+        "trackId": "input-keyboard-digit1",
+        "action": "switch-character-1",
+        "startMs": 2452.434,
+        "durationMs": 1299.658,
+        "label": "切换角色 1",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-6",
+        "trackId": "input-mouse-0",
+        "action": "attack",
+        "startMs": 3969.184,
+        "durationMs": 796.4089999999997,
+        "label": "普通攻击",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-7",
+        "trackId": "input-mouse-2",
+        "action": "sprint",
+        "startMs": 4463.991,
+        "durationMs": 292.8059999999996,
+        "label": "冲刺 / 闪避",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-8",
+        "trackId": "input-mouse-0",
+        "action": "attack",
+        "startMs": 4943.928,
+        "durationMs": 578.5169999999998,
+        "label": "普通攻击",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-9",
+        "trackId": "input-mouse-2",
+        "action": "sprint",
+        "startMs": 5169.276,
+        "durationMs": 322.4880000000003,
+        "label": "冲刺 / 闪避",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-10",
+        "trackId": "input-keyboard-keye",
+        "action": "skill",
+        "startMs": 727.723,
+        "durationMs": 688.2629999999999,
+        "label": "元素战技",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-11",
+        "trackId": "input-mouse-0",
+        "action": "attack",
+        "startMs": 6369.154,
+        "durationMs": 532.6480000000001,
+        "label": "普通攻击",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      },
+      {
+        "id": "recorded-12",
+        "trackId": "input-mouse-2",
+        "action": "sprint",
+        "startMs": 6546.742,
+        "durationMs": 369.8810000000003,
+        "label": "冲刺 / 闪避",
+        "judgePress": true,
+        "judgeRelease": true,
+        "judgement": {
+          "perfectMs": 45,
+          "goodMs": 100,
+          "missMs": 185
+        }
+      }
+    ],
+    "judgement": {
+      "perfectMs": 45,
+      "goodMs": 100,
+      "missMs": 185
+    },
+    "timing": {
+      "notes": "新建草稿，尚未校时。 由 Studio 实际输入录制生成，等待人工微调。",
+      "updatedAt": "2026-07-15"
+    }
+  },
+  "mediaPack": {
+    "schemaVersion": 1,
+    "kind": "genshin-combo-media-pack",
+    "id": "draft.new-mrlnm7t5.custom-media",
+    "name": "未命名手法 · 默认媒体",
+    "drillId": "draft.new-mrlnm7t5",
+    "characterId": "character-id",
+    "version": "0.1.2",
+    "assets": [],
+    "channels": [
+      {
+        "id": "voice",
+        "label": "角色语音",
+        "volume": 0.9
+      },
+      {
+        "id": "skill-sfx",
+        "label": "技能音效",
+        "volume": 0.8
+      }
+    ],
+    "feedbackRules": [],
+    "audioRules": []
+  }
+}
