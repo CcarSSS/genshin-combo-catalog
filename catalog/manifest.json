@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
   "kind": "genshin-combo-catalog",
-  "generatedAt": "2026-07-15T08:35:25.751Z",
+  "generatedAt": "2026-07-17T02:56:57.502Z",
   "releases": [
+    {
+      "id": "draft.new-mroc911h",
+      "version": "0.1.0",
+      "name": "王彦华大sb",
+      "summary": "大笨蛋王艳华",
+      "url": "releases/draft.new-mroc911h/0.1.0.json",
+      "sha256": "485121a9b8f91566e4fcf1cfb71bdcdfab3053d94021e79d9cb28b9b4f7801cb",
+      "publishedAt": "2026-07-17T02:56:57.502Z"
+    },
     {
       "id": "draft.new-mrlnm7t5",
       "version": "0.1.3",
