@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "kind": "genshin-combo-release",
+  "id": "draft.new-mroc911h",
+  "version": "0.1.0",
+  "name": "王彦华大sb",
+  "summary": "大笨蛋王艳华",
+  "publishedAt": "2026-07-17T02:56:57.502Z",
+  "drill": {
+    "schemaVersion": 1,
+    "id": "draft.new-mroc911h",
+    "name": "王彦华大sb",
+    "description": "由 Combo Studio 新建的草稿。",
+    "status": "draft",
+    "characterIds": [
+      "character-id"
+    ],
+    "durationMs": 1000,
+    "countInMs": 1500,
+    "tracks": [
+      {
+        "id": "attack",
+        "label": "普通攻击",
+        "color": "#ecb85c"
+      },
+      {
+        "id": "track",
+        "label": "新轨道",
+        "color": "#8fa3c2"
+      }
+    ],
+    "spans": [
+      {
+        "id": "attack-1",
+        "trackId": "attack",
+        "action": "attack",
+        "startMs": 0,
+        "durationMs": 200,
+        "label": "攻击 1"
+      },
+      {
+        "id": "action",
+        "trackId": "track",
+        "action": "重击",
+        "startMs": 220,
+        "durationMs": 200,
+        "label": "新动作"
+      },
+      {
+        "id": "action-2",
+        "trackId": "attack",
+        "action": "attack",
+        "startMs": 440,
+        "durationMs": 200,
+        "label": "新动作"
+      },
+      {
+        "id": "action-3",
+        "trackId": "track",
+        "action": "attack",
+        "startMs": 660,
+        "durationMs": 200,
+        "label": "新动作"
+      }
+    ],
+    "judgement": {
+      "perfectMs": 45,
+      "goodMs": 100,
+      "missMs": 185
+    },
+    "timing": {
+      "notes": "新建草稿，尚未校时。",
+      "updatedAt": "2026-07-17"
+    },
+    "defaultBindings": {
+      "keyboardMouse": {
+        "attack": "Mouse:0",
+        "重击": "Mouse:2"
+      }
+    }
+  },
+  "mediaPack": {
+    "schemaVersion": 1,
+    "kind": "genshin-combo-media-pack",
+    "id": "draft.new-mroc911h.custom-media",
+    "name": "未命名手法 · 默认媒体",
+    "drillId": "draft.new-mroc911h",
+    "characterId": "character-id",
+    "version": "0.1.0",
+    "assets": [],
+    "channels": [
+      {
+        "id": "voice",
+        "label": "角色语音",
+        "volume": 0.9
+      },
+      {
+        "id": "skill-sfx",
+        "label": "技能音效",
+        "volume": 0.8
+      }
+    ],
+    "feedbackRules": [],
+    "audioRules": []
+  }
+}
