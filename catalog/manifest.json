@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "genshin-combo-catalog",
-  "generatedAt": "2026-07-17T02:56:57.502Z",
+  "generatedAt": "2026-07-20T06:30:20.776Z",
   "releases": [
     {
       "id": "draft.new-mroc911h",
@@ -20,6 +20,21 @@
       "url": "releases/draft.new-mrlnm7t5/0.1.3.json",
       "sha256": "9d54cbe3a325269de07474484e8334b6882d78fa138278a3e55594c71603d711",
       "publishedAt": "2026-07-15T08:35:25.751Z"
+    },
+    {
+      "id": "draft.new-mrsugtob",
+      "version": "0.1.0",
+      "name": "Test0720-1",
+      "summary": "更新手法与动作媒体",
+      "url": "releases/draft.new-mrsugtob/0.1.0.json",
+      "sha256": "7db535826dbf1fef92a972e9c60ebf2d33195c5084f944a4fbdf9b11d92237f8",
+      "publishedAt": "2026-07-20T06:30:20.776Z"
     }
-  ]
+  ],
+  "signature": {
+    "algorithm": "ECDSA-P256-SHA256",
+    "keyId": "official-2026-07",
+    "signedAt": "2026-07-20T06:30:20.776Z",
+    "value": "7ty8548nhuKwTeLWq_-eBZHPgow1aTSbstRoI2ab56h_IIsFfOd1D1JQPE_YjCXR9U-TYqDI1fNm_81vqIXwBg"
+  }
 }
