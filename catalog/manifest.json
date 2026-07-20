@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "genshin-combo-catalog",
-  "generatedAt": "2026-07-20T07:05:01.807Z",
+  "generatedAt": "2026-07-20T07:07:50.781Z",
   "releases": [
     {
       "id": "draft.new-mroc911h",
@@ -29,9 +29,8 @@
       "url": "releases/draft.new-mrsulfnu/0.1.0.json",
       "sha256": "977fd01c3a697b09e942c3deea51f48907b30b40f771013d81c9564d08f13bbe",
       "publishedAt": "2026-07-20T06:33:07.289Z",
-      "status": "disabled",
-      "statusChangedAt": "2026-07-20T07:05:01.807Z",
-      "statusReason": "测试禁用"
+      "status": "active",
+      "statusChangedAt": "2026-07-20T07:07:50.781Z"
     },
     {
       "id": "draft.new-mrsugtob",
@@ -46,7 +45,7 @@
   "signature": {
     "algorithm": "ECDSA-P256-SHA256",
     "keyId": "official-2026-07",
-    "signedAt": "2026-07-20T07:05:01.807Z",
-    "value": "F_4V3d8F8yhN0kN1z-a5xVqDyGCr-YozcdU9ZFVPa49EhmESXvFjUxRgqX4CCN0lLZcti4WquaQlDsq8t1Xuwg"
+    "signedAt": "2026-07-20T07:07:50.781Z",
+    "value": "_wwHVLs_AvtXznzXbqJzWMR6FTJ1x3jGlWXfgRc_Jh2qdwj2CodDVifJWiVMjwZXR6nK5Wh-FEJIO6tVWhL05w"
   }
 }
