@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "genshin-combo-release",
+  "id": "draft.new-mrsulfnu",
+  "version": "0.1.0",
+  "name": "Test-0720-2",
+  "summary": "更新手法与动作媒体",
+  "publishedAt": "2026-07-20T06:33:07.289Z",
+  "drill": {
+    "schemaVersion": 1,
+    "id": "draft.new-mrsulfnu",
+    "name": "Test-0720-2",
+    "description": "由 Combo Studio 新建的草稿。",
+    "status": "draft",
+    "characterIds": [
+      "character-id"
+    ],
+    "durationMs": 1000,
+    "countInMs": 1500,
+    "tracks": [
+      {
+        "id": "attack",
+        "label": "普通攻击",
+        "color": "#ecb85c"
+      }
+    ],
+    "spans": [
+      {
+        "id": "attack-1",
+        "trackId": "attack",
+        "action": "attack",
+        "startMs": 0,
+        "durationMs": 200,
+        "label": "攻击 1"
+      }
+    ],
+    "judgement": {
+      "perfectMs": 45,
+      "goodMs": 100,
+      "missMs": 185
+    },
+    "timing": {
+      "notes": "新建草稿，尚未校时。",
+      "updatedAt": "2026-07-20"
+    }
+  },
+  "mediaPack": {
+    "schemaVersion": 1,
+    "kind": "genshin-combo-media-pack",
+    "id": "draft.new-mrsulfnu.custom-media",
+    "name": "未命名手法 · 默认媒体",
+    "drillId": "draft.new-mrsulfnu",
+    "characterId": "character-id",
+    "version": "0.1.0",
+    "assets": [],
+    "channels": [
+      {
+        "id": "voice",
+        "label": "角色语音",
+        "volume": 0.9
+      },
+      {
+        "id": "skill-sfx",
+        "label": "技能音效",
+        "volume": 0.8
+      }
+    ],
+    "feedbackRules": [],
+    "audioRules": []
+  },
+  "signature": {
+    "algorithm": "ECDSA-P256-SHA256",
+    "keyId": "official-2026-07",
+    "signedAt": "2026-07-20T06:33:07.289Z",
+    "value": "4EAeyBuiusJW3lhsxwV1H8EvRNWKGjFa6CjL0YFm-J2hjIoH4SwliYaJcBRUvFBmKaOzf93KRicatXzcwEH7oA"
+  }
+}
