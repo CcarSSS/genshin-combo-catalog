@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "genshin-combo-catalog",
-  "generatedAt": "2026-07-20T06:41:03.599Z",
+  "generatedAt": "2026-07-20T07:04:48.053Z",
   "releases": [
     {
       "id": "draft.new-mroc911h",
@@ -29,9 +29,8 @@
       "url": "releases/draft.new-mrsulfnu/0.1.0.json",
       "sha256": "977fd01c3a697b09e942c3deea51f48907b30b40f771013d81c9564d08f13bbe",
       "publishedAt": "2026-07-20T06:33:07.289Z",
-      "status": "withdrawn",
-      "statusChangedAt": "2026-07-20T06:41:03.599Z",
-      "statusReason": "撤回测试"
+      "status": "active",
+      "statusChangedAt": "2026-07-20T07:04:48.053Z"
     },
     {
       "id": "draft.new-mrsugtob",
@@ -46,7 +45,7 @@
   "signature": {
     "algorithm": "ECDSA-P256-SHA256",
     "keyId": "official-2026-07",
-    "signedAt": "2026-07-20T06:41:03.599Z",
-    "value": "7sS3FRWbW302kHGMVMJEekIA5iaCyQdAc9VUMZAhSkciOfWEtM62DG4E3NywPGYaxXBlq0LHnWlJArcZpZdzVQ"
+    "signedAt": "2026-07-20T07:04:48.053Z",
+    "value": "hTil8ANENBjtVXTkTXLJFWq8Soarzh_-1wNj4mophpQyekrKUuur090hnUz5Ae9aHV1aR4rX5o3iJX3u4aAO1g"
   }
 }
